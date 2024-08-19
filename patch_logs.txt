@@ -1,0 +1,2 @@
+1. Used Fuzzy matching to find the best match for a user inputted product from the existing products in store. (Note: This does not take into account the prices of the products)
+2.
